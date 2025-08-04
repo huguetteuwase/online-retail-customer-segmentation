@@ -41,7 +41,7 @@ This project explores how customers **shop online**, **when they buy**, **how mu
 - **Columns**:
   - `Invoice`, `StockCode`, `Description`, `Quantity`
   - `InvoiceDate`, `Price`, `Customer_ID`, `Country`
-
+dataset link:https://archive.ics.uci.edu/ml/datasets/Online%20Retail%20II
 ---
 
 ## 🧼 Data Cleaning Steps
