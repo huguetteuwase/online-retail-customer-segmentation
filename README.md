@@ -136,3 +136,4 @@ Interactive dashboard summarizing key findings:
 
 <img width="692" height="347" alt="git" src="https://github.com/user-attachments/assets/2044baa0-0f13-426f-9b11-bc8caee545bf" />
 <img width="501" height="344" alt="yeyeyeyeye" src="https://github.com/user-attachments/assets/7c8ba628-ca66-460f-9593-7b2d81d8ca43" />
+<img width="534" height="289" alt="preview_dashboard" src="https://github.com/user-attachments/assets/d1a0dea6-bdd0-4f60-9f44-2a1d79de3e7f" />
