@@ -132,7 +132,7 @@ Interactive dashboard summarizing key findings:
 - Use **Deep Learning** for behavioral sequence modeling  
 - Map users by region with **Power BI map visuals**  
 
----
 
 
-
+<img width="692" height="347" alt="git" src="https://github.com/user-attachments/assets/2044baa0-0f13-426f-9b11-bc8caee545bf" />
+<img width="501" height="344" alt="yeyeyeyeye" src="https://github.com/user-attachments/assets/7c8ba628-ca66-460f-9593-7b2d81d8ca43" />
